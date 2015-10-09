@@ -7,7 +7,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://172.16.4.48:8443/ibili-ios/output/10_09_15_08_04/bilianime_adhoc.ipa/bilianime.ipa</string>
+		<string>https://172.16.4.48:8443/ibili-ios/output/10_09_15_11_19/bilianime_adhoc.ipa/bilianime.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://172.16.4.48:8443/ibili-ios/assets/icon512.jpg</string>
 		<key>fullSizeImageURL</key>
